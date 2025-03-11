@@ -192,6 +192,7 @@
     startAutorotate();
     updateSceneName(scene);
     updateSceneList(scene);
+    enableGiro(scene);
   }
 
   function updateSceneName(scene) {
